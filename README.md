@@ -1,6 +1,6 @@
-# Minor Web Design & Development Kickoff 2021
+# Minor Web Design & Development Kickoff 2021 lotte te kulve
 
-## Informatie
+## Informatie lottetekulve
 Maandag, 1 februari  begin om 9:30 de kickoff. Be there !
 We gaan kennismaken, teams indelen en daarna beginnen met het vak Web App From Scratch. 
 
