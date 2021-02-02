@@ -11,12 +11,12 @@ const data = {
     'avatar': 'https://avatars.githubusercontent.com/u/78353514?s=460&u=f77076b92b59b891df9e4f13a3f877c9f6790c0c&v=4',
     'mugshot': 'https://avatars.githubusercontent.com/u/78353514?s=460&u=f77076b92b59b891df9e4f13a3f877c9f6790c0c&v=4',
     'githubHandle': 'lottetekulve',
+    'url': 'lottetekulve.github.io/kickoff-2021/',
     'other': {
         'sport': 'Fitness',
         'muziek': 'Techno, House, Pop',
-        'werkplek': 'Thuis'
+        'werkplek': 'Thuis',
         }
-    'url': ''
     }
         
 async function postData(url = '', data = {}) {
