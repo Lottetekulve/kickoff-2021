@@ -9,6 +9,104 @@
 }
 
 html {
-  background: var(--secondary);
+  background-color: rgb(195, 255, 225);
   color: var(--primary);
+  font-family:Arial, Helvetica, sans-serif;
+}
+
+ section {
+   border-radius: 10px;
+  margin: 200px auto;
+  width: 400px;
+  background-color:rgb(30, 126, 110);
+
+}
+section ul{
+  list-style: none;
+  margin: 0;
+  padding: 20px 0px;
+}
+section ul li {
+text-decoration: none;
+}
+
+img{
+  width: 150px;
+  margin: 0 125px;
+
+}
+
+h1{
+  font-size: 3em;
+  margin: 20px 20px 5px 20px;
+  text-align: center;
+}
+
+
+h2{
+  text-align: center;
+  font-size: 21px;
+  font-weight: 100;
+  margin: 0 0 10px;
+}
+
+.naastelkaar{
+  padding: 0;
+  flex-wrap: wrap;
+  justify-content: left;
+  margin-top: 0px;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.naastelkaar li{
+  font-size: 24px;
+  width: 100px;
+  margin: auto;
+  text-align: left;
+}
+
+.naastelkaar li.rechts p{
+  text-align: right;
+}
+
+.tekst {
+  font-size: 16px;
+  padding: 0 50px 15px;
+  font-weight: 100;
+  text-align: center;
+}
+
+button {
+  color: white;
+  font-weight: bold;
+  margin: auto;
+  width: 120px;
+  padding: 10px;
+  border-radius: 10px;
+  border: none;
+  background-color: burlywood;
+  font-size: 20px;
+}
+
+ul.knoppen{
+  padding: 0;
+  flex-wrap: wrap;
+  justify-content: left;
+  margin-top: 20px;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.knoppen li{
+  font-size: 30px;
+  margin: auto;
+  text-align: center;
+}
+
+a {
+text-decoration: none;
+color: white;
 }
